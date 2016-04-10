@@ -1,0 +1,58 @@
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+	
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+	
+	
+}
+.stylish-input-group button{
+
+    border:0;
+    background:transparent;
+	
+	
+}
+.navbar{
+    
+	background-color:#ffffff;
+	border-color : #EBC6AD;
+}
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+	
+}
+.nav.navbar-nav.navbar-right li a:hover {
+    color: #EBC6AD;
+	
+}
+
+#search{
+	padding-top : 20px;
+	padding-bottom : 30px;
+	padding-right : 30px;
+}
+#myCarousel {
+       width:400px;
+	   margin:auto;
+	   
+}
+
+.tbl-menu{
+	padding :10px;
+}
+
+.tbl-menu-th {
+	padding: 10px;
+	font-family: "journal-icons";
+	position: relative;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: inherit;
+	
+}
